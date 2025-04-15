@@ -23,7 +23,7 @@ git clone https://github.com/YuranIgnatenko/interactive_translate_ru_en.git
 
 > Main page
 
-![](stayic/im_main.png)
+![](staTic/im_main.png)
 
 > Add word
 
