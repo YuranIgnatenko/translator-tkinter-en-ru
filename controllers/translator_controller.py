@@ -7,7 +7,6 @@ class TranslatorController():
 		data_en = self.database.get_all_en()
 		data_ru = self.database.get_all_ru()
 		self.view = TranslatorAdaptiveView(data_en, data_ru)
-
 	
 	def run(self):
 		self.view.run()
